@@ -1,0 +1,19 @@
+span#errorMessage {
+    color: red;
+    font-size: 9pt;
+}
+div.home-container{
+    min-height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div.home-container > h1{
+    text-align: center;
+}
+.btn:hover {
+    background-color: white;
+    border: 1px solid #007bff;
+    color: black;
+    font-size: 13pt;
+}
